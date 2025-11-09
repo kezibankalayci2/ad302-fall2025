@@ -1,1 +1,1 @@
-# ad302-fall2025
+Hello from AD 302 course
